@@ -1,0 +1,12 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/.idea/
+spec/internal/log/test.log
+spec/spec/internal/log/test.log
+spec/tmp/db.sqlite3
